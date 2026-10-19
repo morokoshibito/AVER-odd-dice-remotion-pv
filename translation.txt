@@ -1,0 +1,2 @@
+# Optional Chinese subtitles: one line per lyric line, same order as lyrics.txt.
+# Leave this file with only comments to disable subtitles.
